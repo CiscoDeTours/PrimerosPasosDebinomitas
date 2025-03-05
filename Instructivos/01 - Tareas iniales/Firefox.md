@@ -36,9 +36,9 @@ sudo apt update
 sudo apt install firefox
 ~~~
 
-#### I.3 - Install webapps extension
+#### I.3 - Webapps capability
 
-• Add the repo:
+• Add the project repo:
 
 ~~~
 curl -fsSL https://packagecloud.io/filips/FirefoxPWA/gpgkey | gpg --dearmor | sudo tee /usr/share/keyrings/firefoxpwa-keyring.gpg > /dev/null
