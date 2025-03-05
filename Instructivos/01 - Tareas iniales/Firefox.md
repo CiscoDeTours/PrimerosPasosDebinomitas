@@ -35,3 +35,28 @@ sudo apt update
 ~~~
 sudo apt install firefox
 ~~~
+
+#### I.3 - Install webapps extension
+
+• Add the repo:
+
+~~~
+curl -fsSL https://packagecloud.io/filips/FirefoxPWA/gpgkey | gpg --dearmor | sudo tee /usr/share/keyrings/firefoxpwa-keyring.gpg > /dev/null
+echo "deb [signed-by=/usr/share/keyrings/firefoxpwa-keyring.gpg] https://packagecloud.io/filips/FirefoxPWA/any any main" | sudo tee /etc/apt/sources.list.d/firefoxpwa.list > /dev/null
+~~~
+
+~~~
+sudo apt update
+~~~
+
+~~~
+sudo apt install firefoxpwa
+~~~
+
+
+• Install the extension:
+
+https://addons.mozilla.org/es-ES/firefox/addon/pwas-for-firefox/
+
+• Install the runtime:
+
