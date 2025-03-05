@@ -1,12 +1,6 @@
 # Firefox
-#### I.1 - Uninstall the ESR version
 
-~~~
-sudo apt remove firefox-esr
-~~~
-
-
-#### I.2 - Add the Mozilla repo for a up to date browser
+#### I.1 - Add the Mozilla repo for a up to date browser
 
 ~~~
 sudo install -d -m 0755 /etc/apt/keyrings
@@ -35,6 +29,14 @@ sudo apt update
 ~~~
 sudo apt install firefox
 ~~~
+
+
+#### I.2 - Uninstall the ESR version
+
+~~~
+sudo apt remove firefox-esr
+~~~
+
 
 #### I.3 - Webapps capability
 
