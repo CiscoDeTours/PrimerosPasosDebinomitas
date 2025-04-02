@@ -34,7 +34,9 @@ flatpak remote-ls --updates
 sudo apt upgrade -y
 ~~~
 
-
+~~~
+sudo sed -i 's/bookworm/stable/g' /etc/apt/sources.list
+~~~
 
 > **Advertencia:**
 > <p> <p>
