@@ -26,6 +26,10 @@ sudo apt install git wget -y
 sudo apt install rsync -y
 ~~~
 
+• Fuentes de Microsoft:
+~~~
+sudo apt install ttf-mscorefonts-installer
+~~~
 
 #### V.2 - Herramientas
 
