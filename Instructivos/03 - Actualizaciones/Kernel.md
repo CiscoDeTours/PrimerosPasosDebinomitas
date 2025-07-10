@@ -1,7 +1,7 @@
 ~~~
-sudo apt install linux-headers-amd64
+sudo apt install linux-image-amd64
 ~~~
 
 ~~~
-sudo apt install -t bookworm-backports linux-headers-amd64
+sudo apt install -t bookworm-backports linux-image-amd64
 ~~~
