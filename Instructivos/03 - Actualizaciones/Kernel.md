@@ -1,6 +1,4 @@
-~~~
-sudo apt install linux-image-amd64
-~~~
+BACKPORTS KERNEL
 
 ~~~
 sudo apt install -t bookworm-backports linux-image-amd64
