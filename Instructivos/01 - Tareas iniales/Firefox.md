@@ -62,7 +62,7 @@ https://addons.mozilla.org/es-ES/firefox/addon/pwas-for-firefox/
 • Install the runtime:
 
 
-#### I.4 - Add language package
+#### I.4 - Language packages
 
 • Search for aditional languages:
 
