@@ -55,10 +55,23 @@ sudo apt update
 sudo apt install firefoxpwa
 ~~~
 
-
 • Install the extension:
 
 https://addons.mozilla.org/es-ES/firefox/addon/pwas-for-firefox/
 
 • Install the runtime:
 
+
+#### I.4 - Add language package
+
+• Search for aditional languages:
+
+~~~
+sudo apt search firefox-l10n
+~~~
+
+• Install your native language:
+
+~~~
+sudo apt install firefox-l10n-es-es
+~~~
