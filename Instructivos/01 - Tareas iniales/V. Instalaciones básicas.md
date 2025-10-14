@@ -26,6 +26,12 @@ sudo apt install git wget -y
 sudo apt install rsync -y
 ~~~
 
+• Para agregar soporte RAR:
+
+~~~
+sudo apt install unrar -y
+~~~
+
 • Fuentes de Microsoft:
 ~~~
 sudo apt install ttf-mscorefonts-installer
