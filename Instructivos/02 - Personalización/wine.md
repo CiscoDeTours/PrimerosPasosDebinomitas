@@ -1,3 +1,3 @@
 ~~~
-wine32 wine 64 winetricks
+wine32 wine64 winetricks
 ~~~
