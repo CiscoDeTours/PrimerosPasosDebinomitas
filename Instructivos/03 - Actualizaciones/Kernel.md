@@ -17,3 +17,9 @@ dpkg --list | grep linux-image
 ~~~
 sudo rm (IMAGE)
 ~~~
+
+#REMOVE REPOS
+
+~~~
+sudo rm /etc/apt/sources.list.d/liquorix.list
+~~~
